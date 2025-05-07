@@ -1,0 +1,48 @@
+
+   
+    
+
+b{
+    color: white;
+    
+} 
+
+.container{
+    width: 100%;
+   
+    
+}
+.item1,.item2,.item3,.item4{
+    display: inline-block;
+
+
+
+}
+.item2{
+    display: inline-block;
+    padding-left: 1100px;
+}
+.item3{
+    display: inline-block;
+    padding-left: 20px;
+}
+.item4{
+    display: inline-block;
+    padding-left: 20px;
+}
+
+.container1{
+    position: relative;
+    
+}
+.item5{
+    position: absolute;
+    padding-left: 700px;
+    top:350px;
+
+
+   
+} 
+img{
+    width: 100%;
+}
