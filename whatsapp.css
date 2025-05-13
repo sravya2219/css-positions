@@ -1,0 +1,206 @@
+.container{
+    border:4px solid black ;
+    width: 400px;
+    height: 950px;
+    border-radius: 30px;
+    margin-left: 100px;
+   
+}
+.container1{
+    background-color: green;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    
+}
+.item1{
+    width: 99px;
+    height: 40px;
+    display: inline-block;
+     padding-top: 20px; 
+     padding-left: 10px;
+    color: white;
+    margin-left: 10px;
+    margin-right: -70px;
+}
+.item2{
+    display: inline-block;
+     padding: 20px;
+   color: white;
+}
+h3{
+    display: inline-block;
+    padding-top: 10px; 
+   color: white;
+}
+.item3{
+    display: inline-block;
+    padding: 10px; 
+   color: white;
+   margin-left: 80px;
+
+}
+
+.item4{
+    display: inline-block;
+    padding: 20px; 
+   color: white;
+}
+.item5{
+    display: inline-block;
+    padding-top: 20px; 
+   color: white;
+}
+.item6{
+    position: sticky;
+    border: 2px solid red;
+    background-color: bisque;
+    margin-left: 150px;
+    width: fit-content;
+    margin-top: 20px;
+    scrollbar-width: 
+}
+#class1{
+    border-radius: 30px;
+    border: 2px solid blanchedalmond; 
+    margin-left: 320px;
+    padding-left: 10px;
+    padding-right: 10px;
+    width: fit-content;
+    background-color: rgb(134, 237, 134);
+
+}
+#class2{
+    
+    border-radius: 30px;
+    border: 1px solid blanchedalmond;
+    margin-left: 300px;
+    width: fit-content;
+    background-color: rgb(134, 237, 134);
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.item7,.item8{
+    position: sticky;
+    scroll-behavior: auto;
+    margin-left: 150px;
+    width: fit-content;
+    border: 1px solid red;
+    background-color:bisque;
+    
+    
+}
+#class4,#class5,#class6,#class7{
+    margin-top: 10px;
+    border-radius: 50px;
+    border: 1px,solid blanchedalmond;
+    background-color: palevioletred;
+    margin-top: 20px;
+    margin-left: 10px;
+    padding-right: 10px;
+    padding-left: 10px;
+    width: fit-content;
+}
+#class8{
+    margin-top: 20px;
+    margin-left: 220px;
+    border-radius: 50px;
+   border: 1px solid blanchedalmond;
+    padding-left: 10px;
+    padding-right: 10px;
+     background-color:  rgb(134, 237, 134);;
+    width: fit-content;
+    
+}
+#class9,#class10{
+     margin-top: 10px;
+    border-radius: 50px;
+    border: 1px,solid blanchedalmond;
+     background-color:palevioletred;
+    margin-top: 20px;
+    margin-left: 10px;
+    padding-right: 10px;
+    padding-left: 10px;
+    width: fit-content;
+}
+#class11,#class15{
+      margin-top: 20px;
+     margin-left: 280px;
+    border-radius: 50px;
+   border: 1px solid blanchedalmond;
+   background-color: rgb(134, 237, 134) ;
+    padding-left: 10px;
+    padding-right: 10px;
+    width: fit-content;
+
+}
+#class12{
+    margin-top: 20px;
+     margin-left: 250px;
+    border-radius: 50px;
+   border: 1px solid blanchedalmond;
+    background-color: rgb(134, 237, 134);
+    padding-left: 10px;
+    padding-right: 10px;
+    width: fit-content;
+ 
+}
+#class13,#class14{
+     margin-top: 10px;
+     padding-right: 10px;
+    border-radius: 50px;
+    border: 1px,solid blanchedalmond;
+    background-color: palevioletred;
+    margin-top: 20px;
+    margin-left: 10px;
+    padding-left: 10px;
+    width: fit-content;
+
+}
+.container2{
+      background-color: green;
+      margin-top: 91px;
+      border-bottom-left-radius: 20px;
+      border-bottom-right-radius: 20px;
+
+      
+
+}
+.item9{
+    display: inline-block;
+    margin-top: 20px;
+    margin-left: 10px;
+    
+}
+h3{
+    display: inline-block;
+     margin-left: 10px;
+}
+.item10{
+    margin-left: 180px;
+    display: inline-block;
+}
+.item11{
+    margin-left: 10px;
+    display: inline-block;
+}
+.item12{
+    margin-left: 10px;
+    display: inline-block;
+}
+.item13{
+    margin-left: 10px;
+    display: inline-block;
+}
+img{
+    
+    width: 400px;
+    height: 820px;
+     position: absolute;
+    left: 0px;
+    margin-bottom: 10px;
+    margin-top: 0px;
+    margin-left: 110px; 
+    margin-right: 100px; 
+    z-index: -15;
+}
+
